@@ -1,0 +1,7 @@
+{
+  "name": "ionicNBAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
